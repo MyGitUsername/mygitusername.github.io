@@ -1,6 +1,6 @@
-title: Your awesome title
+title: Michael Kaufman's blog
 author:
-  name: GitHub User
+  name: Michael Kaufman
   email: your-email@domain.com
 description: > # this means to ignore newlines until "show_excerpts:"
   Write an awesome description for your new site here. You can edit this
@@ -51,9 +51,6 @@ minima:
 # this and add the path to the pages in order as they should show up
 #header_pages:
 # - about.md
-
-# Build settings
-theme: minima
 
 plugins:
  - jekyll-feed
