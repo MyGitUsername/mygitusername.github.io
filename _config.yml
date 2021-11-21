@@ -36,6 +36,9 @@ minima:
 plugins:
   - jekyll-feed
 
+header_pages:
+  - about.markdown
+  - vipassana.markdown
 
 # Exclude from processing.
 # The following items will not be processed, by default.

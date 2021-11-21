@@ -1,6 +1,7 @@
 GIT
   remote: https://github.com/jekyll/minima.git
-  revision: 7a326eb6df07ee6ee5305cfc1b28f7092037e67d
+  revision: 638f38b3832369f1657ea599494be23be44ae4c4
+  branch: master
   specs:
     minima (2.5.1)
       jekyll (>= 3.5, < 5.0)
