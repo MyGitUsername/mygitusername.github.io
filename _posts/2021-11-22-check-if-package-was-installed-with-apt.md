@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Check if package was installed with apt"
+title:  "dpkg"
 ---
 To check if packagename was installed:
 ```

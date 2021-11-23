@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Everything, solarized"
+title: "Everything, Solarized"
 categories: rice
 ---
 #### Tmux
