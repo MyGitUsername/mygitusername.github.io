@@ -12,9 +12,9 @@ Programming Engine] [Kinesis] to use more suitable keybindings.
 One of the customizations includes swapping the `capslock` and `esc` keys.
 As an (n)vim user, I find the `esc` key is more often utilized than the `capslock` key, 
 so it is ergonomically advantageous to swap the `esc` key to the default `capslock` 
-location where the pinky can more easily reach it on the home row.
+location on the home row where the pinky can more easily reach it.
 
-Unforunately, the keyboard layout customization does not persist when using the laptop's built-in
+Unfortunately, the Kinesis' layout customization does not persist when using the laptop's built-in
 keyboard.  Here is how we can fix that, by persisting keymap modifications in Xorg, 
 as explained in the hallowed [Arch wiki] [Arch-Wiki]:
 
