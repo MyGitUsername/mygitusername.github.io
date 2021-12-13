@@ -12,7 +12,7 @@ date:   2021-12-12
     - `export PATH=$HOME/.dir` expands to `/home/username/.dir`  
     <br />
 2. Specifying the incorrect directory.  
-    - N.B. The exact *parent* directory of desired executable must be specified --
+    - N.B. The exact *parent* directory of the desired executable must be specified --
     not the grandparent, great-grandparent, etc.  
     - For example, if you want to run the program `foo.sh` which lives in `/usr/bin/run/foo.sh`,
     add the `/usr/bin/run` directory to your path; having `/usr/bin` in your path is not 
