@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Add A Youtube Channel to RSS"
+title:  "Add a Youtube Channel to RSS"
 date:   2021-12-23
 ---
 
