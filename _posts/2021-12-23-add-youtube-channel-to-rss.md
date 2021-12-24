@@ -13,7 +13,7 @@ in your respective RSS reader
 
 
 Unforunately, youtube's RSS feed does not contain an embedded video; instead, it provides a link
-to watch the video on their website.  If you prefer avoid 
+to watch the video on their website.  If you prefer to avoid 
 youtube.com altogether options include:
 
 1. Download the video using the link provided with [youtube-dl] [youtube-dl]
@@ -23,7 +23,7 @@ youtube.com altogether options include:
 
 Sources:  
 [Hacker News: Youtube and RSS] [hn youtube and rss]  
-[Hacker News: Privacy Respecting Frontend] [hn privacy respecting frontends]  
+[Hacker News: Privacy Respecting Frontends] [hn privacy respecting frontends]  
 
 [Invidious]: https://invidious.io/
 [Vimium]: https://vimium.github.io/
