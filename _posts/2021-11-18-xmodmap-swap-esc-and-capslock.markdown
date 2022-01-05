@@ -24,7 +24,7 @@ It is recommended for only simple keyboard modifications.
 
 In `~/.xinitrc`, add the following line if you use GDM, XDM, or LightDM:
 ```
-[[ -f ~/.Xmodmap ]] && xmodmap ~/.Xmodmap
+[[ -f $HOME/.Xmodmap ]] && xmodmap $HOME/.Xmodmap
 ```
 
 Note: to confirm your display manager, run `systemctl status display-manager` (if 
