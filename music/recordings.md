@@ -1,8 +1,8 @@
 ---
 layout: default
 ---
-The following recordings are from my Senior Recital at McIntosh Theatre 
-in the University of Michigan School of Music in March 2011.    
+Excerpts from my senior recital. Recorded at McIntosh Theatre, 
+University of Michigan School of Music in March 2011.    
 <br /> <br />
 
 <!-- <audio controls> -->
