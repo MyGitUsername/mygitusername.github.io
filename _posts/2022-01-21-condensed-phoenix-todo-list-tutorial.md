@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Condensed Phoenix Todo List Tutorial"
-date:   2021-11-18
+date:   2022-01-21
 ---
 
 0. Install the required software: phoenix, elixir, and postgres
