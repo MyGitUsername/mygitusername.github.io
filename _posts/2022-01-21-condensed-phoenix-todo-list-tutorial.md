@@ -21,4 +21,4 @@ date:   2022-01-21
 
 [View the Code] [github-repo]
 
-[github-repo]: https://github.com/MyGitUsername/todo_list
+[github-repo]: https://github.com/MyGitUsername/simple_todo_list
