@@ -1,10 +1,10 @@
 ---
 layout: post
-title:  "Git Credential Storage"
+title:  "Git Credential Storage for HTTPS Auth"
 date:   2022-01-20
 ---
 The git credentials system's default behavior is to prompt for a username and password
-every connection.  
+every connection when authenticating with HTTPS.  
 
 Alternatives:
 1. "cache" mode  -  Caches the password in memory; does not store on disk. The `--timeout <seconds>`
