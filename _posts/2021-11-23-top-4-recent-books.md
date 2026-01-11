@@ -19,14 +19,14 @@ date:   2021-11-23
 > future, it describes life in what was once the United States and 
 > is now called the Republic of Gilead, a monotheocracy that has reacted 
 > to social unrest and a sharply declining birthrate by reverting to, 
-> and going beyond, the repressive intolerance of the original Puritans. 
-> The regime takes the Book of Genesis absolutely at its word, with 
+> and going beyond, the repressive intolerance of the original Puritans.
+> The regime takes the Book of Genesis absolutely at its word, with
 > bizarre consequences for the women and men in its population.
 
 3. No Longer Human, by Osamu Dazai
-> The poignant and fascinating story of a young man who is caught between 
-> the breakup of the traditions of a northern Japanese aristocratic 
-> family and the impact of Western ideas.Portraying himself as a failure,
+> The poignant and fascinating story of a young man who is caught between
+> the breakup of the traditions of a northern Japanese aristocratic
+> family and the impact of Western ideas. Portraying himself as a failure,
 > the protagonist of Osamu Dazai's No Longer Human narrates a seemingly 
 > normal life even while he feels himself incapable of understanding human 
 > beings. Oba Yozo's attempts to reconcile himself to the world around 

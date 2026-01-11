@@ -11,7 +11,7 @@ date:   2022-05-17
 
 2. **The screen brightness is adjustable.**
 
-    Thefore, I can read at night without an external light source. 
+    Makes it easy to read at night without an external light source. 
     In addition, my eReader, the Kobo Clara HD, contains a setting to
     adjust the natural light which can reduce the amount of blue light
     exposure at night.
@@ -23,8 +23,8 @@ date:   2022-05-17
 
 4. **Find previous references to a character, place, etc.**
 
-    From time to time, and especially when returning to a book after a hiatus,
-    there may be a reference to a character or a place that I don't remember.
+    Especially when returning to a book after a hiatus,
+    I may encounter a character's name or place that I don't remember.
     Highlighting the word and selecting "Search in book" pulls up all other references
     to the same word within the book, allowing me to jump to previous references in order to
     regain context.

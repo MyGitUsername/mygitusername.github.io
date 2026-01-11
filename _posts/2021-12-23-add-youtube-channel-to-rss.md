@@ -12,7 +12,7 @@ date:   2021-12-23
 in your respective RSS reader
 
 
-Unforunately, youtube's RSS feed does not contain an embedded video; instead, it provides a link
+Unfortunately, YouTube's RSS feed does not contain an embedded video; instead, it provides a link
 to watch the video on their website.  If you prefer to avoid 
 youtube.com altogether options include:
 

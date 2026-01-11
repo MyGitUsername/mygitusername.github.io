@@ -10,7 +10,7 @@ BEAM (the Erlang virtual machine) is the runtime layer for
 several languages including Erlang, Elixir, LFE, Alpaca, Gleam.  
 
 A process in BEAM terminology is a runtime execution context of code; it 
-is not an OS process and it is not and OS thread. It is a sequential program without concurrency.  
+is not an OS process and it is not an OS thread. It is a sequential program without concurrency.  
 
 To become concurrent you need to run multiple processes. There are a lot of ways to do this in Elixir.
 For example:
@@ -36,7 +36,7 @@ In Elixir, the most foundational way to do this is with `send/2`.
   <tr>
     <td>
 <pre>
-send(proccess_b, some_message)
+send(process_b, some_message)
 </pre>
     </td>
     <td>
